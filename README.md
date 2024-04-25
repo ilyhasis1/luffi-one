@@ -1,3 +1,3 @@
-<div id="header" align="center">
-      <img src="img/giphy.dif" width="100"/>
-</div>
+
+
+![giphy](https://github.com/ilyhasis1/luffi-one/assets/108222119/edc17079-d0b8-420e-8461-1467f20070c0)
