@@ -4,4 +4,4 @@
   <h1>Hello world</h1>
   <h3>My name is Ilya</h3>
 </div>
- <h2 align="length" style="{ color - red: }">нажмите тут</h2>
+ 
